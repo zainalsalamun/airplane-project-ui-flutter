@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+![](https://github.com/zainalsalamun/airplane-project-ui-flutter/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202022-02-17%20at%2013.31.53.png)
 
 This project is a starting point for a Flutter application.
 
